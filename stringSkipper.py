@@ -7,4 +7,4 @@ def skipperString(string, skipperLength):
         output += string[i]
     return output
     
-print(skipperString(string,skipperLength))s
+print(skipperString(string,skipperLength))
