@@ -1,2 +1,2 @@
 # combatBoredom
-This repo is dedicated for storing all the coding task I do when I got bored.
+This repo stores all the coding task I did when I got bored.
